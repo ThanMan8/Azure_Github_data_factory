@@ -1,3 +1,0 @@
-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
-
-remote_url = "https://github.com/ThanMan8/Azure_Github_data_factory.git"

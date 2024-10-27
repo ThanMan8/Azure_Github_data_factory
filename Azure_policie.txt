@@ -1,6 +1,0 @@
-{
-  "appId": "af250f78-438f-41ef-a382-c0fb67602d05",
-  "displayName": "github action principal",
-  "password": "uno8Q~aTm8V5T_Qo6aOFqcGleb-N_6mJGNih1cak",
-  "tenant": "9bfd002e-2179-4244-abe3-8aa1be366998"
-}
