@@ -37,9 +37,9 @@ jobs:
       run: terraform init
 
     # Run a terraform plan for pull requests only
-    - name: Terraform Apply
-      id: apply
-      run: terraform apply -auto-approve
+    # - name: Terraform Apply
+    #   id: apply
+    #   run: terraform apply -auto-approve
  
     
     
