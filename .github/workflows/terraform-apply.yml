@@ -22,7 +22,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./main
+        working-directory: ./github_azure
 
     steps:
     # Checkout the repository to the GitHub Actions runner
