@@ -30,7 +30,7 @@ resource "azurerm_resource_group" "Azure_github_actions" {
 resource "azurerm_storage_account" "exampleth" {
   name                     = "azuregithubth"
   resource_group_name      = azurerm_resource_group.Azure_github_actions.name
-  location                 = azurerm_resource_group.location
+  location                 = azurerm_resource_group.Azure_github_actions.location
   account_tier             = "Standard"
   account_replication_type = "LRS"
 }
