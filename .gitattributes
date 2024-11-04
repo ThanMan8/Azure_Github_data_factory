@@ -1,1 +1,2 @@
 github_azure/.terraform/* filter=lfs diff=lfs merge=lfs -text
+github_azure/.terraform/* filter=lfs diff=lfs merge=lfs -text
