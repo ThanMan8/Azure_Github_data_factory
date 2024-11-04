@@ -10,6 +10,13 @@ terraform {
     }
   }
 }
+# Required feature block for azurerm provider
+provider "azurerm" {
+  features {}
+}
+
+provider "azuread" {}
+
 # Terraform backend configuration block-precreated
 terraform {
   backend "azurerm" {
